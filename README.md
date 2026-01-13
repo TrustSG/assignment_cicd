@@ -1,6 +1,6 @@
 # README.md
 
-# CI/CD Take-Home Assignment (KISS)
+# CI/CD Pipeline Take-Home Assignment
 
 ## Goal
 Show you can build, test, containerize, and promote a small full-stack app through **Dev → QA → Stage** using **CI/CD** (not manual steps).
